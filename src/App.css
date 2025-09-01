@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@theme {
+    --spacing-mContainer: 1200px; 
+     
+    --font-sora:  "Sora", sans-serif;
+    --font-poppin:  "Poppins", sans-serif;
+    
+    --color-bgColor: #0F0715;
+    --color-btnColor: #8750F7;
+    --color-textColor:#DDDDDD;
+    --color-boxColor:#2A1454;
+    --color-headingColor: linear-gradient(to right top, #0e0e0e, #1e1b37, #2b2662, #3b3190, #4f39bf, #684dd4, #8060e9, #9775ff, #b098ff, #cabbff, #e4ddff, #ffffff);
+
+
+
+    /* bg-gradient-to-r from-[#4f39bf] via-[#7b52f7] to-[#FFFFFF] text-transparent bg-clip-text */
+
+}
+body{
+    background-color:#000;
+}
+
+
+ 
