@@ -48,7 +48,7 @@ const Banner = () => {
                   Web Developer
                 </h3>
                 <h3 className="text-textColor font-semibold font-sora text-[16px] md:text-[18px] text-center">
-                 nazneenzaman195@gmail.com
+                 ............@gmail.com
                 </h3>
 
                 <div className="w-[80%] h-[1px] bg-white m-auto mt-2"></div>
