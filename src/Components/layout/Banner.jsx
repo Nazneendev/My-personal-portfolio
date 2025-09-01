@@ -5,7 +5,7 @@ import Container from "../pages/Container";
 import { CiFacebook } from "react-icons/ci";
 import { TiSocialLinkedinCircular } from "react-icons/ti";
 import { IoLogoInstagram } from "react-icons/io";
-import whiteme from "../../assets/whiteme.png";
+import whiteme from "/src/assets/whiteme.png";
 import 'animate.css';
 import { IoLogoGithub } from "react-icons/io5";
 
