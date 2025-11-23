@@ -5,7 +5,7 @@ import Container from "../pages/Container";
 import { CiFacebook } from "react-icons/ci";
 import { TiSocialLinkedinCircular } from "react-icons/ti";
 import { IoLogoInstagram } from "react-icons/io";
-import whiteme from "/src/assets/whiteme.png";
+import meb from "/src/assets/meb.jpeg";
 import 'animate.css';
 import { IoLogoGithub } from "react-icons/io5";
 
@@ -35,8 +35,8 @@ const Banner = () => {
               <div className=" animate__animated animate__backInRight animate__delay-1s w-[300px] md:w-[360px] h-auto bg-boxColor rounded-[20px] shadow-[37px_37px_80px_0px_#0000001A] p-5">
                 <div className="rounded-[20px] border w-[200px] md:w-[250px] h-[200px] md:h-[250px] overflow-hidden mx-auto">
                   <Images
-                    imgSrc={whiteme}
-                    imgAlt={whiteme}
+                    imgSrc={meb}
+                    imgAlt="me"
                     className="h-full object-cover w-full"
                   />
                 </div>
@@ -48,7 +48,7 @@ const Banner = () => {
                   Web Developer
                 </h3>
                 <h3 className="text-textColor font-semibold font-sora text-[16px] md:text-[18px] text-center">
-                 ............@gmail.com
+                 nazneenzaman195@gmail.com
                 </h3>
 
                 <div className="w-[80%] h-[1px] bg-white m-auto mt-2"></div>

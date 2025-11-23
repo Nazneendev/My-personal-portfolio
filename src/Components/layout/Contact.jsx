@@ -11,7 +11,7 @@ const Contact = () => {
  
   const handleSubmit = (e) => {
     e.preventDefault();
-    alert("Form submitted!"); // just to show it's working
+    alert("Form submitted!"); 
   };
 
 
@@ -86,7 +86,7 @@ const Contact = () => {
       </div>
       <div>
         <h6 className="text-gray-500 font-sora font-medium text-[16px]">Phone</h6>
-        <h3 className="text-white font-sora font-medium text-[20px]">+8801..........</h3>
+        <h3 className="text-white font-sora font-medium text-[20px]">+8801533541158</h3>
       </div>
     </div>
 
@@ -97,7 +97,7 @@ const Contact = () => {
       </div>
       <div>
         <h6 className="text-gray-500 font-sora font-medium text-[16px]">Email</h6>
-        <h3 className="text-white font-sora font-medium text-[20px]">...........@gmail.com</h3>
+        <h3 className="text-white font-sora font-medium text-[20px]">nazneenzaman195@gmail.com</h3>
       </div>
     </div>
 
